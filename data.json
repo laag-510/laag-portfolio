@@ -6,13 +6,13 @@
       "link": "https://alcantaras.github.io/ash-admin-dash/",
       "tags": ["React", "Tailwind", "API"]
     },
-      {
+    {
       "title": "Anxiety Tracker",
       "desc": "Track those anxiety attacks!",
       "link": "https://google.com",
       "tags": ["JSON", "Fetch", "Portfolio"]
     }
-  ],
+  ], 
   "blogPosts": [
     {
       "date": "April 22, 2026",
