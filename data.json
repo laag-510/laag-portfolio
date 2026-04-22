@@ -19,6 +19,12 @@
       "title": "Building Admin Prime: My First React Project",
       "content": "Today I tackled the challenge of building a custom dashboard for my work desk...",
       "category": "Coding"
+    },
+    {
+      "date": "April 23, 2026",
+      "title": "Debugging the Great Comma Crisis",
+      "content": "I learned the hard way that JSON is incredibly picky. One missing comma between projects and blog posts stopped the whole system...",
+      "category": "Learning"
     }
   ]
 }
