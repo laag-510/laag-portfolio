@@ -1,0 +1,18 @@
+{
+  "projects": [
+    {
+      "title": "Admin Prime Dashboard",
+      "desc": "A custom tablet workstation with a live schedule, focus timer, and Spotify playlist embeded.",
+      "link": "https://alcantaras.github.io/ash-admin-dash/",
+      "tags": ["React", "Tailwind", "API"]
+    }
+  ],
+  "blogPosts": [
+    {
+      "date": "April 22, 2026",
+      "title": "Building Admin Prime: My First React Project",
+      "content": "Today I tackled the challenge of building a custom dashboard for my work desk...",
+      "category": "Coding"
+    }
+  ]
+}
