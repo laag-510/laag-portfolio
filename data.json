@@ -5,6 +5,12 @@
       "desc": "A custom tablet workstation with a live schedule, focus timer, and Spotify playlist embeded.",
       "link": "https://alcantaras.github.io/ash-admin-dash/",
       "tags": ["React", "Tailwind", "API"]
+    },
+      {
+      "title": "Anxiety Tracker",
+      "desc": "Track those anxiety attacks!",
+      "link": "https://alcantaras.github.io/ash-admin-dash/",
+      "tags": ["React", "Tailwind", "API"]
     }
   ],
   "blogPosts": [
